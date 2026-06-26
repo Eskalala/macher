@@ -8,10 +8,10 @@ permalink: /terms
 
 # Terms of Service for Macher
 
-Last updated: [DATE]
+Last updated: 26.06.2026
 
 These terms govern the use of the **Macher** app (the "App"), provided by
-[FULL NAME / COMPANY], [ADDRESS] ("we").
+Jannis Klaus.
 
 ## 1. What Macher is
 Macher is a party game for events: you complete challenges, capture them as a
@@ -59,7 +59,7 @@ We operate a hosting service within the meaning of the Digital Services Act (DSA
 - **Statement of reasons:** If content you posted is removed or your account is
   suspended, we inform you of the essential reason.
 - **Appeal / contact:** You can contact our central point of contact regarding
-  moderation decisions: [CONTACT EMAIL].
+  moderation decisions: kontakt.macher.app@mail.de
 
 ## 8. Termination and account deletion
 You can irrevocably delete your account at any time via "Delete account" in
@@ -68,11 +68,7 @@ these terms.
 
 ## 9. Liability
 You take part in challenges at your own risk and make your own decisions about
-carrying them out. Otherwise, we are liable without limitation for intent and
-gross negligence, as well as for injury to life, body, or health. For slight
-negligence, we are liable only for the breach of a material contractual obligation
-(cardinal obligation) and limited in amount to the foreseeable damage typical for
-this type of contract. [Have this clause adapted by a lawyer to §§ 305 ff. BGB.]
+carrying them out. Otherwise, we are not liable whatsoever.
 
 ## 10. Changes
 We may amend these terms. We will notify you of material changes in an appropriate
