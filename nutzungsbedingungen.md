@@ -3,15 +3,17 @@ title: Nutzungsbedingungen
 description: Nutzungsbedingungen für Macher (AGB, UGC/Moderation)
 ---
 
+**🇩🇪 Deutsch** · [🇬🇧 English](https://eskalala.github.io/macher/terms)
+
 # Nutzungsbedingungen für Macher
 
-Stand: 19.06.2026
+Stand: [DATUM]
 
 Diese Bedingungen regeln die Nutzung der App **Macher** (nachfolgend „App“),
-bereitgestellt von Jannis Klaus
+bereitgestellt von [VOLLSTÄNDIGER NAME / FIRMA], [ANSCHRIFT] („wir“).
 
 ## 1. Was Macher ist
-Macher ist ein Party-Spiel für Festivals: Du erfüllst Challenges, hältst sie per
+Macher ist ein Party-Spiel für Events: Du erfüllst Challenges, hältst sie per
 Foto oder Video als „Beweis“ fest und teilst sie mit deiner Crew oder öffentlich
 in einem Event. Die App ist kostenlos und enthält keine Werbung.
 
@@ -26,7 +28,7 @@ Du bist für die Aktivitäten unter deinem Konto verantwortlich.
 
 ## 4. Verhaltensregeln (Hausregeln)
 Beim Posten verpflichtest du dich, **keine** Inhalte zu veröffentlichen, die
-- gegen geltendes Recht oder die Festivalregeln verstoßen,
+- gegen geltendes Recht oder die Regeln der Veranstaltung verstoßen,
 - Nacktheit, sexuell explizite Darstellungen, Gewaltverherrlichung, Belästigung,
   Hass oder Diskriminierung enthalten,
 - die Rechte Dritter verletzen oder gefährliche Handlungen verharmlosen.
@@ -57,7 +59,7 @@ Wir betreiben einen Hosting-Dienst im Sinne des Digital Services Act (DSA).
 - **Begründung:** Wird ein von dir eingestellter Inhalt entfernt oder dein Konto
   gesperrt, informieren wir dich über den wesentlichen Grund.
 - **Widerspruch / Kontakt:** Gegen Moderationsentscheidungen kannst du dich an
-  unsere zentrale Kontaktstelle wenden: kontakt.macher.app@gmail.com
+  unsere zentrale Kontaktstelle wenden: [KONTAKT-E-MAIL].
 
 ## 8. Beendigung und Kontolöschung
 Du kannst dein Konto jederzeit über „Konto löschen“ in den Einstellungen
@@ -66,7 +68,12 @@ oder schwerwiegend gegen diese Bedingungen verstoßen.
 
 ## 9. Haftung
 Du nimmst auf eigenes Risiko an Challenges teil und triffst eigene
-Entscheidungen über deren Durchführung. Wir übernehmen keinerlei Haftung.
+Entscheidungen über deren Durchführung. Im Übrigen haften wir unbeschränkt bei
+Vorsatz und grober Fahrlässigkeit sowie bei der Verletzung von Leben, Körper oder
+Gesundheit. Bei einfacher Fahrlässigkeit haften wir nur bei Verletzung einer
+wesentlichen Vertragspflicht (Kardinalpflicht) und der Höhe nach begrenzt auf den
+vorhersehbaren, vertragstypischen Schaden. [Diese Klausel anwaltlich an
+§§ 305 ff. BGB anpassen lassen.]
 
 ## 10. Änderungen
 Wir können diese Bedingungen anpassen. Über wesentliche Änderungen informieren
