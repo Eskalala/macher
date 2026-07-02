@@ -8,20 +8,18 @@ permalink: /privacy-policy
 
 # Privacy Policy for Macher
 
-Last updated: [DATE]
+Last updated: 02.07.2026
 
 This policy informs you, in accordance with Articles 13 and 14 GDPR, which
 personal data we process in the **Macher** app, for what purposes, and on what
 legal basis.
 
 ## 1. Controller
-[FULL NAME / COMPANY]
-[ADDRESS]
-Email: [CONTACT EMAIL]
+Jannis Klaus
+Email: macher.app.kontakt@mail.de
 
 We have [not appointed a data protection officer, as we are not legally required
-to / appointed a data protection officer; the contact details are: …]. Please
-adjust this sentence.
+to.
 
 ## 2. Principles
 Macher is a party game for events. We process only the data needed to operate the
@@ -93,7 +91,7 @@ You have the following rights against us: access (Art. 15), rectification
 (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data
 portability (Art. 20), and objection (Art. 21). You can withdraw any consent you
 have given at any time with effect for the future (Art. 7(3)). To do so, contact
-[CONTACT EMAIL].
+kontakt.macher.app@mail.de
 
 You can exercise the right to erasure directly yourself via **"Delete account"**
 in the app settings.
@@ -101,7 +99,7 @@ in the app settings.
 ## 9. Right to lodge a complaint
 You have the right to lodge a complaint with a data protection supervisory
 authority, in particular the one responsible for us:
-[NAME AND ADDRESS OF THE COMPETENT STATE DATA PROTECTION AUTHORITY].
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) Promenade 18 91522 Ansbach
 
 ## 10. Minimum age
 Macher is intended for people aged **16 and over**. When setting up an account you
