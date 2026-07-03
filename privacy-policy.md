@@ -8,7 +8,7 @@ permalink: /privacy-policy
 
 # Privacy Policy for Macher
 
-Last updated: 02.07.2026
+Last updated: 03.07.2026
 
 This policy informs you, in accordance with Articles 13 and 14 GDPR, which
 personal data we process in the **Macher** app, for what purposes, and on what
